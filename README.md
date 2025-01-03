@@ -3,7 +3,7 @@
 The game is simple. There is a hand, you kick enemies, and you reach the checkmark. No need for further elaboration.
 
 The Demo video:
-[https://youtu.be/-fknYpuVudM](url)
+https://youtu.be/-fknYpuVudM
 
 Controls:
 Move: Arrow Keys
